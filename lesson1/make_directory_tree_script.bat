@@ -1,0 +1,10 @@
+md build
+md docs
+md extern
+md src
+md src\app
+md src\inc
+md src\tst
+md tools
+md lib
+md extern
